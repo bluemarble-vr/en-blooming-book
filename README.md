@@ -27,15 +27,19 @@ https://docs.google.com/document/d/1yPECX93ZQHm38bH1LBZE64XHAryh84KN/edit?usp=dr
 
 - https://youtu.be/uoUR6oLsv8Q 
 
-# Website Tutorial Video 
+# Website Tutorial Video
 
-https://youtu.be/yZgA2H-7qGU 
+https://youtu.be/IyPA7-J4-1U
 
-# Book Surveys 
+# Book Surveys  
 
-- Link 1: "The Needs of Interactive Book" Survey Form: https://forms.gle/Xijpi1wcmTMDwGu89 
+- Link 1: "The Needs of Interactive Book" Survey Form: https://docs.google.com/document/d/19GM7NkKd0FFowbZndvPCjQD8PZAXrwpc/edit?usp=drive_link&ouid=113476062317449881088&rtpof=true&sd=true
 
-- Link 2: BlueMarble VR User's Survey: https://forms.gle/CUp3ujVZG5hd5r1v9 
+- Link 2: BlueMarble VR User's Survey: https://docs.google.com/document/d/1fPgJAL4QyQml9ZmORLaLYCj3ebDaOXap/edit?usp=drive_link&ouid=113476062317449881088&rtpof=true&sd=true
+
+# Planning documents
+
+https://docs.google.com/spreadsheets/d/119FfvfW_lUQTd9Jx1FcO1-pHqanSa3Dz/edit?usp=drive_link&ouid=113476062317449881088&rtpof=true&sd=true
 
 # AI Used in the Project: 
 
