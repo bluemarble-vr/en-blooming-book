@@ -1,7 +1,10 @@
 # Link to Project Introduction Slides 
 
-
 https://drive.google.com/file/d/1p5zbUNMoq_mKhhtdRq4VFgX2h7yJT7As/view?usp=drive_link 
+
+# Website Link 
+
+https://bluemarble-vr.github.io/en-blooming-book/ 
 
 # Link to the Book 
 
@@ -23,10 +26,6 @@ https://docs.google.com/document/d/1yPECX93ZQHm38bH1LBZE64XHAryh84KN/edit?usp=dr
 - https://youtu.be/SCC20Gf4YL4 
 
 - https://youtu.be/uoUR6oLsv8Q 
-
-# Website Link 
-
-https://bluemarble-vr.github.io/en-blooming-book/ 
 
 # Website Tutorial Video 
 
